@@ -1,4 +1,4 @@
-# CodeAlpha Task 4 — Basic Chatbot
+ Basic Chatbot
 
 ## What it does
 - Reads messages from the console.
